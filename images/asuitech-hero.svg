@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs><linearGradient id="ahg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#2d40ea"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#ahg)"/>
+  <!-- kit frame left -->
+  <g transform="translate(40,50)">
+    <rect width="300" height="500" rx="14" fill="#fff"/>
+    <text x="22" y="36" font-family="sans-serif" font-size="15" font-weight="bold" fill="#0f172a">Components</text>
+    <g transform="translate(22,52)">
+      <rect width="120" height="40" rx="20" fill="#2d40ea"/><text x="60" y="25" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fff">Primary</text>
+      <rect x="130" width="120" height="40" rx="20" fill="none" stroke="#0f172a" stroke-width="1.5"/><text x="190" y="25" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0f172a">Ghost</text>
+    </g>
+    <g transform="translate(22,108)">
+      <rect width="256" height="40" rx="8" fill="#f1f5f9"/><text x="12" y="25" font-family="sans-serif" font-size="12" fill="#64748b">Search products…</text>
+    </g>
+    <g transform="translate(22,164)">
+      <rect width="124" height="120" rx="10" fill="#f8fafc" stroke="#e2e8f0"/><rect x="136" width="120" height="120" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+      <rect x="10" y="96" width="100" height="10" rx="5" fill="#cbd5e1"/><rect x="146" y="96" width="86" height="10" rx="5" fill="#cbd5e1"/>
+    </g>
+    <g transform="translate(22,298)">
+      <rect width="256" height="52" rx="10" fill="#0f172a"/><text x="128" y="32" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#fff" font-weight="bold">Checkout</text>
+    </g>
+    <g transform="translate(22,366)"><rect width="124" height="36" rx="18" fill="#e0e7ff"/><text x="62" y="24" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3730a3">Badge</text><rect x="134" width="124" height="36" rx="18" fill="#dcfce7"/><text x="196" y="24" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#166534">Success</text></g>
+    <g transform="translate(22,420)"><rect width="256" height="28" rx="6" fill="#f1f5f9"/><rect y="36" width="220" height="28" rx="6" fill="#f1f5f9"/></g>
+  </g>
+  <!-- storefront right -->
+  <g transform="translate(370,50)">
+    <rect width="390" height="500" rx="14" fill="#fff"/>
+    <rect width="390" height="48" rx="14" fill="#0f172a"/>
+    <text x="24" y="30" font-family="sans-serif" font-size="15" font-weight="bold" fill="#fff">ASU Store</text>
+    <g transform="translate(24,66)">
+      <rect width="340" height="140" rx="12" fill="#1e293b"/>
+      <text x="170" y="60" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#fff">Summer drop</text>
+      <rect x="120" y="86" width="120" height="34" rx="17" fill="#32d14b"/><text x="180" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#111">Shop now</text>
+    </g>
+    <g transform="translate(24,222)">
+      <rect width="160" height="160" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+      <rect x="180" width="160" height="160" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+      <rect x="16" y="130" width="120" height="10" rx="5" fill="#cbd5e1"/><rect x="196" y="130" width="120" height="10" rx="5" fill="#cbd5e1"/>
+    </g>
+    <g transform="translate(24,400)">
+      <rect width="340" height="52" rx="26" fill="#eef2ff"/>
+      <text x="170" y="32" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#3730a3">Continue to checkout →</text>
+    </g>
+  </g>
+</svg>

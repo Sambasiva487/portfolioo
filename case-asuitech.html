@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Asuitech Solutions, Multi-Brand Design System | Sambasiva Koki</title>
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+<script>WebFont.load({google:{families:["Ledger:regular","Barrio:regular","Barriecito:regular"]}});</script>
+<link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="container nav-inner">
+    <a href="index.html" class="logo">Sambasiva Koki</a>
+    <div class="nav-menu">
+      <a href="index.html" data-hover-text="back to work">my work</a>
+      <a href="index.html#about">me and my skillset</a>
+      <a href="index.html#contact">get in touch</a>
+    </div>
+  </div>
+</nav>
+
+<header class="case-hero">
+  <div class="container">
+    <div class="crumb"><a href="index.html">All work</a> · Featured case study</div>
+    <h1>Asuitech Solutions , <br/>a design system that <em>scales brands</em></h1>
+    <p class="case-lede">Multi-brand e-commerce, one design system. I owned the end-to-end UX: from discovery to tokens, components, and validated flows across landing, PDPs, checkout, and post-purchase.</p>
+    <div class="meta-row">
+      <div class="meta-cell"><div class="k">Role</div><div class="v">Senior UX/UI Designer</div></div>
+      <div class="meta-cell"><div class="k">Timeline</div><div class="v">May 2026, Present</div></div>
+      <div class="meta-cell"><div class="k">Stack</div><div class="v">Figma · Design tokens · HTML/CSS</div></div>
+      <div class="meta-cell"><div class="k">Scope</div><div class="v">Multi-brand e-commerce + B2B</div></div>
+    </div>
+    <figure class="hero-shot"><img src="images/asuitech-home.png" alt="Asuitech Solutions homepage"/></figure>
+  </div>
+</header>
+
+<article class="case-body">
+<div class="container prose">
+  <h2>The <em>problem</em></h2>
+  <p>The company runs several consumer-facing e-commerce brands, each with slightly different product pages, checkout flows, and UI conventions. Every new campaign or product launch required redesigning the same patterns, buttons, forms, product cards, instead of shipping.</p>
+  <p>Design-to-dev handoff was inconsistent, conversion-critical surfaces were diverging, and iterative testing was slow because there was no single source of truth.</p>
+
+  <h2>My role &amp; <em>approach</em></h2>
+  <ul>
+    <li><b>Discovery first.</b> Audited every product-brand page, mapped shared patterns, and catalogued divergences. Interviewed marketing, dev, and QA to find the friction points.</li>
+    <li><b>Tokens before components.</b> Built a token layer (color, spacing, radius, type) so one change could cascade across all brand themes.</li>
+    <li><b>Components, not screens.</b> Designed card, CTA, input, PDP, and checkout components that any brand could adopt, with brand-level overrides handled via tokens.</li>
+    <li><b>Iterate with data.</b> Each design change shipped behind an A/B test; analytics (GA + event instrumentation) told us whether it won.</li>
+  </ul>
+
+  <figure class="figure"><img src="images/asuitech-dashboard.png" alt="Asuitech internal dashboard or product UI"/><figcaption>Internal product tooling that drives the multi-brand e-commerce experience.</figcaption></figure>
+
+  <h2>Key <em>decisions</em></h2>
+  <h3>1. One flow, many brands</h3>
+  <p>The biggest structural decision was to treat multi-brand not as "N designs" but as "one design system, N token sets." This eliminated the most expensive class of rework: rebuilding the same checkout or PDP for each brand.</p>
+  <h3>2. Instrumented every funnel step</h3>
+  <p>Every form, every landing CTA, every checkout step emits events. This meant we could attribute changes to specific design decisions instead of guessing.</p>
+  <div class="callout">Design is a hypothesis; analytics is the test. If you can't measure the outcome, you can't iterate. <b>That mindset separated this project from cosmetic redesigns.</b></div>
+
+  <h2>Outcomes</h2>
+  <div class="stats-row">
+    <div class="stat-card"><div class="n">4</div><div class="l">Brands unified</div></div>
+    <div class="stat-card"><div class="n">48</div><div class="l">Reusable components</div></div>
+    <div class="stat-card"><div class="n">100%</div><div class="l">Tokenized themes</div></div>
+  </div>
+  <p>The system is the platform for every landing page, campaign, and product flow going forward. New campaign pages that took weeks now launch in days.</p>
+
+  <div class="px-note">Note: case study copy reflects representative work details. Specific project metrics are adjusted for confidentiality; the process, scope, and ownership are accurate to how I worked.</div>
+</div>
+</article>
+
+<section class="next-case">
+  <div class="container">
+    <div class="k">Next case study</div>
+    <a class="next" href="case-sharecase.html" data-hover-text="read it →">Sharecase, B2B Lead Generation</a>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="copy">© 2026 Sambasiva Koki. All rights reserved.</div>
+  </div>
+</footer>
+<script src="js/main.js"></script>
+</body>
+</html>
