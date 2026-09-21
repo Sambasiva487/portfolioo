@@ -15,5 +15,5 @@
     <polyline points="24,170 90,150 160,158 230,110 300,80" fill="none" stroke="#16a34a" stroke-width="5" stroke-linecap="round"/>
     <text x="230" y="70" font-family="sans-serif" font-size="34" font-weight="bold" fill="#052e1f">+31%</text>
   </g>
-  <text x="400" y="470" font-family="monospace" font-size="14" fill="#6ee7b7" text-anchor="middle">every field has a reason to exist — or it gets cut</text>
-<g><rect x="0" y="568" width="800" height="32" fill="#000" fill-opacity=".72"/><text x="400" y="589" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">CONFIDENTIAL — client work, website details cannot be displayed. Illustrative mock.</text></g></svg>
+  <text x="400" y="470" font-family="monospace" font-size="14" fill="#6ee7b7" text-anchor="middle">every field has a reason to exist, or it gets cut</text>
+<g><rect x="0" y="568" width="800" height="32" fill="#000" fill-opacity=".72"/><text x="400" y="589" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">CONFIDENTIAL, client work, website details cannot be displayed. Illustrative mock.</text></g></svg>

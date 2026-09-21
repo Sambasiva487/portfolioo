@@ -9,4 +9,4 @@
     <g transform="translate(516,0)"><rect width="150" height="300" rx="12" fill="#fff"/><rect width="150" height="36" rx="12" fill="#f3e8ff"/><circle cx="20" cy="18" r="6" fill="#9333ea"/><rect x="14" y="52" width="100" height="12" rx="6" fill="#f3e8ff"/><rect x="14" y="78" width="122" height="120" rx="8" fill="#faf5ff"/><rect x="14" y="212" width="122" height="30" rx="15" fill="#9333ea"/><rect x="14" y="254" width="80" height="12" rx="6" fill="#f3e8ff"/></g>
   </g>
   <text x="400" y="480" text-anchor="middle" font-family="monospace" font-size="14" fill="#64748b">same components, different tokens</text>
-<g><rect x="0" y="568" width="800" height="32" fill="#000" fill-opacity=".72"/><text x="400" y="589" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">CONFIDENTIAL — client work, website details cannot be displayed. Illustrative mock.</text></g></svg>
+<g><rect x="0" y="568" width="800" height="32" fill="#000" fill-opacity=".72"/><text x="400" y="589" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">CONFIDENTIAL, client work, website details cannot be displayed. Illustrative mock.</text></g></svg>
